@@ -1,5 +1,20 @@
-### Hi there 👋
+# 👋 Hello! I'm Thomas
 
-I have a Bachelor´s Degree in Information Systems and work as a software developer/IT Manager.  I am passionate about games. I am always seeking out more knowledge in the technology area, trying to help others whenever possible as well.
+I'm a software developer with a degree in Information Systems and a strong passion for building useful and reliable systems. I currently work as a Developer and IT Manager in the notarial and registry domain in Brazil.
 
-I have already collaborated to a _Health/Social Tech_ startup. I hope one day to contribute on an open source project.
+🛠 I work primarily with **Delphi**, **Node.js**, **PostgreSQL**, and **REST APIs**, and I'm currently deepening my knowledge in **cloud-based integrations**.
+
+🎮 Gamer by heart, I love digging into the logic behind systems — whether it's for building tools, improving UX, or just exploring ideas.
+
+📚 Currently learning and evolving through:
+- Clean and modern code practices in legacy Delphi systems
+- Software architecture and automation for high-availability systems
+- Cloud storage, APIs, and CI/CD integration workflows
+
+🌱 I believe in learning by building. One step at a time.
+
+🤝 I'm always happy to exchange knowledge or contribute when I can. Let’s build something cool together.
+
+---
+
+Made with ☕ and a little bit of 🙃
