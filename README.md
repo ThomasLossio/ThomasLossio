@@ -13,7 +13,7 @@ I'm a software developer with a degree in Information Systems and a strong passi
 
 🌱 I believe in learning by building. One step at a time.
 
-🤝 I'm always happy to exchange knowledge or contribute when I can. Let’s build something cool together.
+🤝 I'm always happy to exchange knowledge or contribute when I can.
 
 ---
 
