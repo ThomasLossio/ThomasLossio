@@ -1,19 +1,38 @@
 # 👋 Hello! I'm Thomas
 
-I'm a software developer with a degree in Information Systems and a strong passion for building useful and reliable systems. I currently work as a Developer and IT Manager in the notarial and registry domain in Brazil.
+I'm a Senior Software Developer focused on backend systems, reliable integrations, and the incremental modernization of legacy software.
 
-🛠 I work primarily with **Delphi**, **Node.js**, **PostgreSQL**, and **REST APIs**, and I'm currently deepening my knowledge in **cloud-based integrations**.
+I have worked in technology since 2012 and in software development since 2015. At SNR Sistemas, I currently work as a Software Development Analyst and technical reference for Archive 7, a mission-critical platform for Brazil's notarial and registry sector.
 
-🎮 Gamer by heart, I love digging into the logic behind systems — whether it's for building tools, improving UX, or just exploring ideas.
+## 🛠 Core stack
 
-📚 Currently learning and evolving through:
-- Clean and modern code practices in legacy Delphi systems
-- Software architecture and automation for high-availability systems
-- Cloud storage, APIs, and CI/CD integration workflows
+- Delphi / Object Pascal, Node.js, and TypeScript
+- PostgreSQL, Firebird / InterBase, and SQL
+- REST APIs, JSON, XML, and system integrations
+- Tests, migrations, CI/CD, and troubleshooting
 
-🌱 I believe in learning by building. One step at a time.
+## 🔭 Current focus
 
-🤝 I'm always happy to exchange knowledge or contribute when I can.
+- Backend architecture and reliable integrations
+- Modernizing legacy systems with low operational risk
+- AppSec and security applied to software development
+- AI-assisted development workflows
+
+## 🚀 Selected projects
+
+- [Delphi Faker](https://github.com/ThomasLossio/faker-delphi) — A lightweight data faker library for Delphi with Brazilian Portuguese support.
+- [Clippy](https://github.com/ThomasLossio/clippy) — A TypeScript, Python, Next.js, Fastify, and PostgreSQL learning project built around explicit contracts and TDD.
+- [Dados](https://github.com/ThomasLossio/aplicativo-de-dados) — A native Android dice roller built with Kotlin and Jetpack Compose.
+- [Chorus](https://github.com/ThomasLossio/chorus-app) — An experiment in Android development and multi-agent software workflows.
+
+## 🎓 Background
+
+- Bachelor's degree in Information Systems
+- MBA in Software Engineering
+- MBA Rocketseat Full Stack
+- Postgraduate degree in Cybersecurity
+
+🎮 Gamer by heart, I enjoy understanding the systems, rules, and logic behind things.
 
 ---
 
