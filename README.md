@@ -1,8 +1,8 @@
 # 👋 Hello! I'm Thomas
 
-I'm a Senior Software Developer focused on backend systems, reliable integrations, and the incremental modernization of legacy software.
+I'm an Information Security Analyst II at Brisanet, with a background of more than 10 years in software development, backend systems, and integrations.
 
-I have worked in technology since 2012 and in software development since 2015. At SNR Sistemas, I currently work as a Software Development Analyst and technical reference for Archive 7, a mission-critical platform for Brazil's notarial and registry sector.
+I have worked in technology since 2012 and in software development since 2015. I joined Brisanet in September 2026. Previously, at SNR Sistemas, I worked as a Software Development Analyst and technical reference for Archive 7, a mission-critical platform for Brazil's notarial and registry sector, until September 2026.
 
 ## 🛠 Core stack
 
@@ -13,10 +13,10 @@ I have worked in technology since 2012 and in software development since 2015. A
 
 ## 🔭 Current focus
 
-- Backend architecture and reliable integrations
-- Modernizing legacy systems with low operational risk
-- AppSec and security applied to software development
-- AI-assisted development workflows
+- Building my career in Information Security and learning the processes of my new role
+- Connecting my software background with application, identity, and access security
+- Studying AppSec, IAM, and defensive security
+- Maintaining my backend, integration, and software engineering skills
 
 ## 🚀 Selected projects
 
@@ -31,6 +31,8 @@ I have worked in technology since 2012 and in software development since 2015. A
 - MBA in Software Engineering
 - MBA Rocketseat Full Stack
 - Postgraduate degree in Cybersecurity
+- MBA in Artificial Intelligence, completed in September 2026
+- Postgraduate specialization in Higher Education Teaching and Active Learning Methodologies, completed in September 2026
 
 🎮 Gamer by heart, I enjoy understanding the systems, rules, and logic behind things.
 
